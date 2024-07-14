@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "159529805553",
+    "project_id": "cosc341-project",
+    "storage_bucket": "cosc341-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159529805553:android:5f3195b5ab50bece052b50",
+        "android_client_info": {
+          "package_name": "com.example.ubc_bookstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIyGhan7FRHN8cmBRtJEkkDdHm8PYiRyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">UBC_BookStore</string>
+    <string name="search_bookstore">seach bookstore</string>
+    <string name="ubc_bookstore">UBC Bookstore</string>
+    <string name="previous">PREVIOUS</string>
+    <string name="next">NEXT</string>
+    <string name="home">HOME</string>
+    <string name="title">Title:</string>
+    <string name="price_new">Price New:</string>
+    <string name="price_used">Price Used:</string>
+    <string name="quantity">Quantity:</string>
+    <string name="genre">Gengre:</string>
+    <string name="author">Author:</string>
+    <string name="isbn">ISBN:</string>
+    <string name="new_available">New Available:</string>
+    <string name="used_available">Used Available:</string>
+    <string name="add">Add</string>
+    <string name="click_here_offer">Click here for Limited Time Promotion Offer</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="in_stock">In Stock</string>
+    <string name="out_of_stock">Out of Stock</string>
+    <string name="notify_me_when_available">Notify me when available</string>
+    <string name="cancel_button_description">Cancel</string>
+    <string name="ubc_logo_description">UBC logo</string>
+    <string name="description_less_quantity">Decrease quantity</string>
+    <string name="add_quantity">Add quantity</string>
+    <string name="default_notification_channel_id">default_channel_id</string>
+    <string name="default_notification_channel_name">Default Channel</string>
+    <string name="default_notification_channel_description">Channel description</string>
+    <string name="book_title">Book Title</string>
+    <string name="book_image">Book Image</string>
+</resources>
